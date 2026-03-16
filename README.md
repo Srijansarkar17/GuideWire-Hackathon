@@ -1,8 +1,29 @@
 # GuideWire-Hackathon
 Team Void Main()
 
-## Problem we are solving!!!!
-Gig delivery workers in India operate on a week-to-week income cycle, and even a few hours of disruption due to heavy rain, pollution, curfews, or platform outages can significantly reduce their earnings. These external events are unpredictable and beyond their control, yet there is currently no dedicated system that protects them against short-term income loss.
+## Problem Statment
+### Who?
+Food delivery partners working in metro cities.
+
+### How They Earn?
+    - Paid per delivery
+    - Weekly income cycle
+    - Peak-hour dependent (6PM–10PM)
+
+### What Goes Wrong?
+
+| Disruption              | What Happens                              | Income Impact            |
+|-------------------------|--------------------------------------------|--------------------------|
+| 🌧 Heavy Rain / Flooding | Orders drop or deliveries become unsafe   | Peak earnings lost       |
+| 🌫 High AQI              | Outdoor working hours reduce              | Fewer completed orders   |
+| 🚫 Curfew                | Restricted movement across zones          | Zero deliveries          |
+| 📱 App Outage            | No order allocation from platform         | Immediate income stop    |
+
+### The Real Issue
+    - Income drops instantly
+    - No compensation mechanism
+    - Loss happens in peak earning hours
+    - Workers bear full financial risk
 
 ## Solution
 Drizzle is an AI-powered, hyperlocal parametric insurance platform that automatically detects real-time disruptions and compensates workers for verified income loss. Using a simple weekly pricing model, smart risk assessment, and instant automated payouts, Drizzle provides a reliable financial safety net without manual claims or paperwork.
