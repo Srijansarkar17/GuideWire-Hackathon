@@ -125,3 +125,26 @@ This ensures workers are protected without overpaying for unnecessary coverage.
     - Simple weekly subscription
     - Premium based on zone risk
     - Coverage aligned with weekly earnings cycle
+
+## Core Innovation: Income-Linked Presence (Fraud-Resistant Design)
+Traditional models work like this:
+
+    - Rain happened in zone → anyone present gets paid.
+
+This creates fraud risk. Riders could travel to a rainy zone just to claim compensation.
+
+Drizzle introduces:
+    
+    - Income-Linked Presence Model
+
+Instead of location-based payout, eligibility is tied to economic activity before disruption.
+
+A rider qualifies only if:
+
+    - They were active in that micro-zone in the last 7 days
+    - The zone contributes significantly to their weekly income
+    - They were present before the disruption started
+
+This ensures payouts are linked to genuine working behavior, not opportunistic movement.
+
+Drizzle protects income — not rainfall exploitation.
