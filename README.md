@@ -78,6 +78,7 @@ This structure ensures:
 
 ### Example Scenario
 A food delivery rider operating in a flood-prone micro-zone is classified under Medium Risk.
+
     - Weekly Premium: ₹28
     - If verified disruptions reduce earnings during peak hours, the rider can receive compensation up to ₹1500 for that week.
 This ensures workers are protected without overpaying for unnecessary coverage.
