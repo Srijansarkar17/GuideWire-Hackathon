@@ -24,7 +24,7 @@ For example, if heavy rainfall causes flooding in certain micro-zones between 6 
 
 ## Weekly Premium Model
 
-### How Risk Score is Calculated
+### 1)How Risk Score is Calculated
 Each micro-zone is assigned a weekly Risk Score (0–100) based on:
     
     - Historical frequency of weather disruptions
@@ -49,7 +49,7 @@ Additionally, rider-specific factors are considered:
 
 The final risk score determines the premium category.
 
-### What Affects the Weekly Premium
+### 2)What Affects the Weekly Premium
 The weekly premium depends on:
 
     - Risk level of the rider’s Primary Operating Zone
