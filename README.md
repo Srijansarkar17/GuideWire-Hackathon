@@ -61,3 +61,23 @@ The weekly premium depends on:
     - Coverage limit selected by the rider
 
     - Higher-risk zones have slightly higher premiums but also offer higher maximum coverage.
+
+### 3)Weekly Pricing Structure (Example)
+
+| Risk Category     | Weekly Premium | Maximum Weekly Coverage |
+|-------------------|---------------|--------------------------|
+| Low Risk Zone     | ₹15           | ₹800                     |
+| Medium Risk Zone  | ₹28           | ₹1500                    |
+| High Risk Zone    | ₹45           | ₹2500                    |
+
+This structure ensures:
+
+- Affordable entry pricing  
+- Proportional protection based on risk  
+- Financial sustainability for the insurer
+
+### Example Scenario
+A food delivery rider operating in a flood-prone micro-zone is classified under Medium Risk.
+    - Weekly Premium: ₹28
+    - If verified disruptions reduce earnings during peak hours, the rider can receive compensation up to ₹1500 for that week.
+This ensures workers are protected without overpaying for unnecessary coverage.
