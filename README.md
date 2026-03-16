@@ -148,3 +148,32 @@ A rider qualifies only if:
 This ensures payouts are linked to genuine working behavior, not opportunistic movement.
 
 Canopy protects income — not rainfall exploitation.
+
+## Tech Stack
+
+    - Frontend: React
+    - Backend: FastAPI
+    - Database: PostgreSQL
+    - ML Models: Scikit-learn / Prophet
+    - APIs: Weather API (mock), Traffic API (mock), Platform API (simulated)
+    - Payments: Razorpay Test Mode
+
+## Development Plan
+
+Week 1–2:
+    
+    - Persona research
+    - Risk scoring design
+    - Premium model logic
+
+Week 3–4:
+
+    - Parametric trigger automation
+    - Fraud detection module
+    - Policy management system
+
+Week 5–6:
+
+    - Instant payout simulation
+    - Dashboard analytics
+    - Final demo and pitch preparation
