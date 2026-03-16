@@ -113,3 +113,10 @@ This ensures workers are protected without overpaying for unnecessary coverage.
 | 3️⃣ Trigger Monitoring | System tracks rainfall, AQI, curfews, and app outages | Automatic disruption detection |
 | 4️⃣ Income Validation | Verifies real income drop before payout | Prevents false claims |
 | 5️⃣ Instant Payout | Auto-initiated with zero paperwork | Fast financial protection |
+
+### What Makes It Different
+    - Unlike simple geo-trigger models:
+    - Payout is linked to economic activity
+    - Eligibility requires pre-disruption presence
+    - Income loss must be data-validated
+    - Fraud detection runs automatically
