@@ -316,35 +316,36 @@ const drizzleTech = {
 
 ```mermaid
 gantt
-    title Drizzle Development Timeline
+    title Drizzle Development Timeline - GuideWire Hackathon 2026
     dateFormat YYYY-MM-DD
-    section Foundation
-    Persona Research & Problem Validation :done, 2024-01-01, 7d
-    Risk Scoring MVP Design :done, 2024-01-08, 7d
-    Premium Logic Implementation :done, 2024-01-15, 7d
+    axisFormat %b %d
     
-    section Core Features
-    Trigger Automation System :active, 2024-01-22, 14d
-    Fraud Detection Module :2024-02-05, 14d
-    Policy Management System :2024-02-19, 14d
-    Income Validation Engine :2024-02-26, 10d
+    section Foundation (Week 1-2)
+    Persona Research & Problem Validation :done, 2026-06-02, 7d
+    Risk Scoring MVP Design :done, 2026-06-09, 7d
+    Premium Logic Implementation :done, 2026-06-16, 7d
     
-    section Integration
-    Weather API Integration :2024-03-04, 5d
-    Payment Gateway (Razorpay) :2024-03-07, 5d
-    Platform API Simulation :2024-03-10, 5d
+    section Core Features (Week 3-4)
+    Trigger Automation System :active, 2026-06-23, 7d
+    Fraud Detection Module :2026-06-30, 7d
+    Policy Management System :2026-06-23, 14d
+    Income Validation Engine :2026-06-30, 10d
     
-    section Polish
-    Payout System Integration :2024-03-04, 10d
-    Analytics Dashboard :2024-03-14, 10d
-    Mobile App Polish :2024-03-18, 7d
+    section Integration (Week 5)
+    Weather API Integration :2026-07-03, 3d
+    Payment Gateway (Razorpay) :2026-07-03, 3d
+    Platform API Simulation :2026-07-03, 3d
     
-    section Launch
-    Testing & QA :2024-03-20, 5d
-    Documentation :2024-03-22, 3d
-    Pitch Deck & Demo :2024-03-24, 4d
-    Hackathon Submission :milestone, 2024-03-28, 1d
-
+    section Polish (Week 6)
+    Payout System Integration :2026-07-06, 2d
+    Analytics Dashboard :2026-07-06, 2d
+    Mobile App Polish :2026-07-06, 2d
+    
+    section Launch (Final Days)
+    Testing & QA :2026-07-07, 1d
+    Documentation :2026-07-07, 1d
+    Pitch Deck & Demo :2026-07-08, 1d
+    Hackathon Submission :milestone, 2026-07-08, 1d
 ```
 
 
