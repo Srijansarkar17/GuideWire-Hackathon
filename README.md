@@ -187,5 +187,45 @@ gantt
 
 # 🏗️ System Architecture
 
+<img width="868" height="990" alt="image" src="https://github.com/user-attachments/assets/b026b71d-5f22-4e50-9e4e-faf192a6ec21" />
+
+
+## Data Flow Diagram
+
+```mermaid
+flowchart TD
+    subgraph Input
+        A[Rider Activity] --> B[(Historical DB)]
+        C[Weather Data] --> D{Disruption Detector}
+        E[Platform Outages] --> D
+    end
+    
+    subgraph Processing
+        D --> F[Risk Scorer]
+        B --> F
+        F --> G[Premium Calculator]
+        G --> H[Policy Issuance]
+        
+        D --> I[Trigger Event]
+        I --> J[Income Validator]
+        J --> K{Legitimate Claim?}
+    end
+    
+    subgraph Output
+        K -->|Yes| L[Auto-payout]
+        K -->|No| M[Flag for Review]
+        L --> N[Bank Transfer]
+        M --> O[Fraud Database]
+    end
+    
+    style D fill:#f9d71c
+    style K fill:#ff6b6b
+    style L fill:#4CAF50
+```
+
+# 📱 User Experience Flow
+
+
+
 
 
