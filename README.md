@@ -732,6 +732,21 @@ gantt
     Hackathon Submission :milestone, 2026-07-08, 1d
 ```
 
+
+## 🎬 **Media & Demos**
+
+<div align="center">
+  
+| Video | Link |
+|:-----:|:----:|
+| 🎥 **Full Pitch & Demo** | [Watch on YouTube](https://www.youtube.com/watch?v=ZYC1R5-bh4M) |
+| 📱 **App Walkthrough** | [Watch Demo](https://drive.google.com/file/d/1iBoFKFwB8-5QI1wl8yK1h2BbI6aS6G8n/view?usp=sharing) |
+
+[![Drizzle Pitch Video](https://img.youtube.com/vi/ZYC1R5-bh4M/0.jpg)](https://www.youtube.com/watch?v=ZYC1R5-bh4M)
+*Click image to watch our GuideWire Hackathon pitch*
+
+</div>
+
 ## Team
 
 - Devanshi Agrawal
