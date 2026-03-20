@@ -614,7 +614,11 @@ flowchart TD
 
 ## 📱 User Experience Flow
 
-<img width="1574" height="1456" alt="image" src="https://github.com/user-attachments/assets/2a0aa385-66d8-4741-9c14-eddb8543518a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97c99a41-5f1e-4edd-8af4-18d2bc4abd79" width="250"/>
+  <img src="https://github.com/user-attachments/assets/153abd23-250c-44c4-852f-9e95757d2696" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9244fdc9-d825-4ea6-a9c2-e52bd9def9bc" width="250"/>
+</p>
 
 ## User Journey Map
 
