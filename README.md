@@ -14,10 +14,10 @@
 </div>
 
 ---
-
 ## 📋 **Table of Contents**
 - [The $5B Problem](#-the-5b-problem-nobodys-solving)
 - [Our Innovation](#-our-innovation-income-linked-presence)
+- [Signal-Based Fraud Detection System](#-signal-based-fraud-detection-system)
 - [Premium Model](#-premium-model-that-makes-sense)
 - [System Architecture](#-system-architecture)
 - [User Experience](#-user-experience-flow)
